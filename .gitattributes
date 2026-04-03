@@ -1,15 +1,7 @@
-Hi All!
-
-I've recently launched a tool that wraps many of the commands here with a user interface. This desktop application is currently available for macOS. There's a roadmap outlining planned features for the near future.
-Feel free to request any features you'd like to see, and I'll prioritize them accordingly.
-One of the most important aspects of this application is that every command executed behind the scenes is displayed in a special log section. This allows you to see exactly what’s happening and learn from it.
 
 Here's the link to the repository:  https://github.com/Pulimet/ADBugger
 
-App Description:
-ADBugger is a desktop tool designed for debugging and QA of Android devices and emulators. It simplifies testing, debugging, and performance analysis by offering device management, automated testing, log analysis, and remote control capabilities. This ensures smooth app performance across various setups.
  
-
 =============================
 adb help // List all comands
 
